@@ -13,10 +13,10 @@ XML formated file for JFLAP Used in Finite Automaton
 * Opening JFLAP7.1 Click Finite Automaton and open the output from the program.
 
 ## Demo Folder:
-example.txt > list of words
-output-example.txt.jff > XML output of example.txt
-ExampleOut.txt > Demo output of a small list of words
-ExampleOutJFLAP.png > Image of the demo in JFLAP
+* example.txt > list of words
+* output-example.txt.jff > XML output of example.txt
+* ExampleOut.txt > Demo output of a small list of words
+* ExampleOutJFLAP.png > Image of the demo in JFLAP
 
 # Project Description
 ## Project: DFA Construction
