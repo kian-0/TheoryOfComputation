@@ -6,7 +6,12 @@
 List of words
 
 ## Output:
-XML for JFLAP of a DFA
+XML formated file for JFLAP Used in Finite Automaton
+
+## How to use:
+* Given a list of words the program will attempt to make a Deterministic Finite Automaton (DFA) of the provided words.
+* Opening JFLAP7.1 Click Finite Automaton and open the output from the program.
+
 
 # Project Description
 ## Project: DFA Construction
