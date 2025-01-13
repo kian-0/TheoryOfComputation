@@ -1,6 +1,6 @@
-# Tools Needed:
-JFLAP7.1
-Any JavaIDE
+# Tools Needed
+* JFLAP7.1
+* Any JavaIDE
 
 ## Input:
 List of words
